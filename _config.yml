@@ -9,7 +9,7 @@ title:               Steven Slade
 tagline:             'Jr. Web Dev'
 description:         '<a href="https://ca.linkedin.com/in/stevenslade" target="_blank">LinkedIn</a> / <a href="https://www.visualcv.com/stevenpslade" target="_blank">CV</a></br>Twitter: <a href="https://twitter.com/stevenpslade" target="_blank">@stevenpslade</a></br>Github: <a href="https://github.com/stevenpslade" target="_blank">stevenpslade</a>'
 url:                 http://stevenpslade.github.io/
-baseurl:             'http://stevenpslade.github.io'
+baseurl:             ''
 paginate:            2
 gems:                [jekyll-paginate]
 
