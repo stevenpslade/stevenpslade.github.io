@@ -7,7 +7,7 @@ permalink:           pretty
 # Setup
 title:               Steven Slade
 tagline:             'Jr. Web Dev'
-description:         'Check out my <a href="https://ca.linkedin.com/in/stevenslade" target="_blank">LinkedIn</a><br/>Twitter<a href="https://twitter.com/stevenpslade" target="_blank">@stevenpslade</a>.'
+description:         'Check out my <a href="https://ca.linkedin.com/in/stevenslade" target="_blank">LinkedIn</a><br/>and <a href="https://www.visualcv.com/stevenpslade" target="_blank">resume</a>.<br/>Twitter: <a href="https://twitter.com/stevenpslade" target="_blank">@stevenpslade</a>'
 url:                 http://stevenpslade.github.io/
 baseurl:             'http://stevenpslade.github.io'
 paginate:            2
