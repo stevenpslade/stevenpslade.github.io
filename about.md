@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  Hi! Welcome to my personal, programming blog. How can it be personal and programming related? Easy! Programming is my bread and butter but it's also a way of life. I wouldn't be who I am today without it. Find out more below!
+  My name is Steven Slade. I am a web developer. My focus is putting ideas into action and seeing where those ideas can take us. My goal is to have fun finding success.
 </p>
 
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
